@@ -1,0 +1,47 @@
+[
+  {
+    "config": "tau03_hvg2000_pc50",
+    "n_cells": 3660,
+    "n_genes_raw": 23797,
+    "n_genes_after_filter": 10361,
+    "n_hvg": 2000,
+    "tau": 0.03,
+    "n_pcs": 50
+  },
+  {
+    "config": "tau03_hvg1000_pc50",
+    "n_cells": 3660,
+    "n_genes_raw": 23797,
+    "n_genes_after_filter": 10361,
+    "n_hvg": 1000,
+    "tau": 0.03,
+    "n_pcs": 50
+  },
+  {
+    "config": "tau03_hvg3000_pc50",
+    "n_cells": 3660,
+    "n_genes_raw": 23797,
+    "n_genes_after_filter": 10361,
+    "n_hvg": 3000,
+    "tau": 0.03,
+    "n_pcs": 50
+  },
+  {
+    "config": "tau03_hvg2000_pc30",
+    "n_cells": 3660,
+    "n_genes_raw": 23797,
+    "n_genes_after_filter": 10361,
+    "n_hvg": 2000,
+    "tau": 0.03,
+    "n_pcs": 30
+  },
+  {
+    "config": "tau03_hvg2000_pc75",
+    "n_cells": 3660,
+    "n_genes_raw": 23797,
+    "n_genes_after_filter": 10361,
+    "n_hvg": 2000,
+    "tau": 0.03,
+    "n_pcs": 75
+  }
+]
